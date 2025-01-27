@@ -24,6 +24,8 @@
 
 The main case study used during the development phase is located in the region of [Serra da Estrela](https://en.wikipedia.org/wiki/Serra_da_Estrela), Portugal.
 
+<img src="media/trail-beijame.jpg" alt="Trail experience" style="zoom:20%;" />
+
 A trail called "**Verdelhos and Beijames river**" has been chosen to illustrate different types of narratives built around topics such as Geology ( is integrated into the [Serra da Estrela GeoPark](https://www.geoparkestrela.pt/) ), Wild Fires (The area has been battered with wild fires in the recent years), Fauna and flora (the mountain biotope is unique in Portugal), local heritage.
 
 Input data, trails tracks and images were acquired by the authors and are available as open data.
