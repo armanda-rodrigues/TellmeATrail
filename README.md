@@ -1,6 +1,3 @@
-# TellmeATrail
-Public Repository for the Tellme A Trail Platform
-
 <img src="media/media.png" alt="media" style="zoom:14%;" />
 
 
@@ -33,11 +30,10 @@ Input data, trails tracks and images were acquired by the authors and are availa
 
 ### Trail track
 
-- [Verdelhos-and-Rio -Beijames.kml](trail/Verdelhos-and-Rio -Beijames.kml)
-- [Verdelhos-and-Rio -Beijames.gpx](trail/Verdelhos-and-Rio -Beijames.gpx)
+- [Verdelhos-and-Rio -Beijames.kml](trail/Verdelhos-and-Rio-Beijames.kml)
+- [Verdelhos-and-Rio -Beijames.gpx](trail/Verdelhos-and-Rio-Beijames.gpx)
 
 ### Media files
 
 - [Verdelhos and Beijames river - natural and cultural heritage](narratives/heritage/)
-
 
