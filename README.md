@@ -8,17 +8,28 @@
 
 ## Screens
 
+You can navigate and search for the trails according to three modes: 
 
+- Trails nearby my position
+- Trails on the map
+- Search by narrative
 
 ![Main screens of the app](media/main-screens.png)
+
+<center>Figure 1 - Main screens for the trails selection</center>
+
+
 
 
 
 ![Navigation between screens](media/MapFlow.png)
 
+<center>Figure 2 - Navigation flow between screens </center>
 
 
 ![Details of the trail called "Verdelhos and Beijames Streem" ](media/trailTabs.png)
+<center>Figure 3 - Screens for the trails details</center>
+
 
 ## Case Study
 
