@@ -4,6 +4,15 @@
 
 "**Tell-me a Trail**" is a mobile application that provides an improved tailored experience to walkers and hikers through interactive multimedia narratives. It is integrated in a Web architecture supported by [OGC standard](https://www.ogc.org/publications/) services.
 
+## Team
+
+The application and the web services supporting it have received the contributions from: 
+
+- [Kiara Silva](mailto:[kv.silva@alumni.fct.unl.pt](mailto:kv.silva@alumni.fct.unl.pt))
+- [Ana Tavira](mailto:[a.tavira@camps.fct.unl.pt](mailto:a.tavira@camps.fct.unl.pt))
+- [Armanda Rodrigues](mailto:a.rodrigues@fct.unl.pt) 
+- [Cédric Grueau](cedric.grueau@estsetubal.ips.pt)
+
 
 
 ## Screens
@@ -33,7 +42,7 @@ You can navigate and search for the trails according to three modes:
 
 ## Case Study
 
-The application has been tested by user with various profiles, with different trails in Portugal
+The application has been tested by users with various profiles, with different trails in Portugal
 
 But a main case study has been identified and will be used in further development of the app. It is located in the region of [Serra da Estrela](https://en.wikipedia.org/wiki/Serra_da_Estrela), Portugal. 
 
