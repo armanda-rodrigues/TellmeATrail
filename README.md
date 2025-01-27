@@ -11,7 +11,7 @@ The application and the web services supporting it have received the contributio
 - [Kiara Silva](mailto:[kv.silva@alumni.fct.unl.pt](mailto:kv.silva@alumni.fct.unl.pt))
 - [Ana Tavira](mailto:[a.tavira@camps.fct.unl.pt](mailto:a.tavira@camps.fct.unl.pt))
 - [Armanda Rodrigues](mailto:a.rodrigues@fct.unl.pt) 
-- [Cédric Grueau](cedric.grueau@estsetubal.ips.pt)
+- [Cédric Grueau](mailto:cedric.grueau@estsetubal.ips.pt)
 
 
 
